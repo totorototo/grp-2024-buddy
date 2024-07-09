@@ -1,16 +1,16 @@
 location,label,km,kind,cutoffTime
-VielleAure,Départ,0.0,Depart,2024-08-23 05:00:00
-Restaurant Merlans,CP1,15.7,refueling,2024-08-23 08:30:00
-La Mongie,CP2,30.7,refueling,2024-08-23 12:45:00
-Col de Sencours,CP3,38.0,refueling,2024-08-23 15:15:00
-Col de Sencours,CP3,44.6,refueling,2024-08-23 16:45:00
-Col d'Aoube,CP4,49.1,refueling,2024-08-23 17:45:00
-Hautacam,CP5,63.1,refueling,2024-08-23 21:15:00
-Pierrefitte,CP6,74.8,life base,2024-08-24 00:00:00
-Cauterets,CP7,89.7,refueling,2024-08-24 04:00:00
-Aulian,CP8,98.7,refueling,2024-08-24 07:30:00
-Luz Saint Sauveur,CP9,108.7,life base,2024-08-24 10:15:00
-Tournaboup,CP10,123.7,refueling,2024-08-24 18:45:00
-Refuge d'Aygues Cluses,CP11,138.9,refueling,2024-08-24 22:15:00
-Restaurant Merlans,CP12,149.8,refueling,2024-08-25 02:15:00
-VielleAure,CP13,163.3,Arrivée,2024-08-25 06:00:00
+VielleAure,Départ,0.0,Depart,2024-08-23T03:00:00Z
+Restaurant Merlans,CP1,15.7,refueling,2024-08-23T06:30:00Z
+La Mongie,CP2,30.7,refueling,2024-08-23T10:45:00Z
+Col de Sencours,CP3,38.0,refueling,2024-08-23T13:15:00Z
+Col de Sencours,CP3,44.6,refueling,2024-08-23T14:45:00Z
+Col d'Aoube,CP4,49.1,refueling,2024-08-23T15:45:00Z
+Hautacam,CP5,63.1,refueling,2024-08-23T19:15:00Z
+Pierrefitte,CP6,74.8,life base,2024-08-23T22:00:00Z
+Cauterets,CP7,89.7,refueling,2024-08-24T02:00:00Z
+Aulian,CP8,98.7,refueling,2024-08-24T05:30:00Z
+Luz Saint Sauveur,CP9,108.7,life base,2024-08-24T08:15:00Z
+Tournaboup,CP10,123.7,refueling,2024-08-24T16:45:00Z
+Refuge d'Aygues Cluses,CP11,138.9,refueling,2024-08-24T20:15:00Z
+Restaurant Merlans,CP12,149.8,refueling,2024-08-25T00:15:00Z
+VielleAure,CP13,163.3,Arrivée,2024-08-25T04:00:00Z
