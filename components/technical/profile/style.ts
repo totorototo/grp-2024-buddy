@@ -19,6 +19,7 @@ const style = (Component: FunctionComponent<ProfileProps>) => styled(Component)`
   }
 
   .sections-container {
+    margin-top: env(safe-area-inset-top);
     scrollbar-width: none;
     ::-webkit-scrollbar {
       display: none; /* Safari and Chrome */

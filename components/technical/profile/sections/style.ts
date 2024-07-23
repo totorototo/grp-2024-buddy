@@ -28,7 +28,7 @@ const style = (Component: FunctionComponent<SectionProps>) => styled(Component)`
       overflow: hidden;
       display: flex;
       align-items: flex-end;
-      justify-content: flex-end;
+      justify-content: center;
       font-size: 6rem;
       letter-spacing: -0.05em;
       min-width: 2rem;
@@ -50,7 +50,7 @@ const style = (Component: FunctionComponent<SectionProps>) => styled(Component)`
 
       flex-direction: column;
       align-items: flex-start;
-      justify-content: center;
+      justify-content: flex-start;
 
       span:first-child {
         color: var(--color-accent);
