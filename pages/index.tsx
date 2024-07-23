@@ -31,7 +31,6 @@ type SectionStatistics = {
 function computeTimedSections({
   checkpoints,
   raceStartingDate,
-
   analyzer,
   coordinates,
 }: {
@@ -240,7 +239,7 @@ function computeSections({
 
 export async function getStaticProps() {
   const directory = path.join(process.cwd(), "./assets");
-  const filename = "grp-ultra-2024";
+  const filename = "grp-ultra-2024-v2";
 
   // 1- retrieve waypoints from pgx file
   const geoJson = await getGeoJson({ directory, filename: `${filename}.gpx` });

@@ -2,7 +2,6 @@ location,label,km,kind,cutoffTime
 Vielle Aure,Départ,0.0,Depart,2024-08-23T03:00:00Z
 Restaurant Merlans,CP1,15.7,refueling,2024-08-23T06:30:00Z
 La Mongie,CP2,30.7,refueling,2024-08-23T10:45:00Z
-Col de Sencours,CP3,38.0,refueling,2024-08-23T13:15:00Z
 Col de Sencours,CP3,44.6,refueling,2024-08-23T14:45:00Z
 Col d'Aoube,CP4,49.1,refueling,2024-08-23T15:45:00Z
 Hautacam,CP5,63.1,refueling,2024-08-23T19:15:00Z
