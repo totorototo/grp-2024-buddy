@@ -62,7 +62,7 @@ const GlobalStyle = createGlobalStyle`
     div#__next,
     div#__next > div {
       height:100vh;
-      background-color: red; //var(--color-background);
+      background-color: var(--color-background);
       // background-color: #101010;
       // background: radial-gradient(circle at bottom center, #212121 0%, #101010 80%);
     }
